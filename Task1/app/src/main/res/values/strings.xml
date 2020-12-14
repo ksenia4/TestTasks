@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="free_preview">Free preview</string>
+    <string name="you_can_also_like">You can also like</string>
+    <string name="search">Search</string>
+    <string name="best_seller">Best Seller</string>
+</resources>
